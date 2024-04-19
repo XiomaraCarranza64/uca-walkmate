@@ -1,3 +1,4 @@
 Para el flujo del trabajo utilizaremos 
--(agregar datos). 
--
+-(agregar datos).
+-uso de gitflow. 
+-uso de github project para la asignación de tareas.
